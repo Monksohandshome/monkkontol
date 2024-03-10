@@ -1,14 +1,14 @@
 {
   "name": "monksans",
-  "version": "0.1.0",
-  "private": true,
+  "version": "2.2.2",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
+  "monksans": {
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.1"
